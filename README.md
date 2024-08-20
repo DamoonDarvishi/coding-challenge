@@ -94,3 +94,4 @@ We provide you with a base project preconfigured with Next.js, Tailwind CSS, and
 #### **Good Luck! 💪**
 
 Once you are done, send us a confirmation email. After your submission, we will get in touch with you.
+# coding-challeng-joypix
