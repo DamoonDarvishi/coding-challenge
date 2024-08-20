@@ -1,7 +1,7 @@
 'use client'
 
 import React from 'react'
-import { ny } from '~/lib/utils'
+import { ny } from '~/libs/utils'
 
 type TColorProp = `#${string}` | `#${string}`[]
 interface ShineBorderProps {
